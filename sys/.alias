@@ -1,0 +1,9 @@
+# useful aliases and shortcuts
+
+# typo and shortcuts
+alias ls="ls -Gp"
+alias l="ls -Gp"
+alias s="ls -Gp"
+alias lsa="ls -a"
+alias vi="vim"
+alias sbash=". ~/.bash_profile"
